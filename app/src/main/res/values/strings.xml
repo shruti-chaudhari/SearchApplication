@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchApplication</string>
+    <string name="default_msg">No data available for entered title. Please try with a different option.</string>
+    <!-- Titles -->
+    <string name="id">ID</string>
+    <string name="publicationDate">Publication \nDate</string>
+    <string name="articleType">Article Type</string>
+    <string name="abstractData">Abstract</string>
+</resources>
